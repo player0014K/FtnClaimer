@@ -34,3 +34,5 @@ Claim VivaFTN or Dzook Every Hour<br>
 - npm i
 - node index.js
 
+# DWYOR
+
