@@ -9,8 +9,8 @@ Claim VivaFTN or Dzook Every Hour<br>
 - APP_HASH
 
 # How To use
-- ```git clone https://github.com/downygg/FtnBot.git```
-- ```cd FtnBot```
+- ```git clone https://github.com/downygg/FtnClaimer.git```
+- ```cd FtnClaimer```
 - ```npm i```
 - ```Add your APP_ID & APP_HASH at .env file```
 - ```node index.js```
